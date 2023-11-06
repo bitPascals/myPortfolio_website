@@ -15,7 +15,7 @@ body {
 }
 
 a {
-  color: #34b7a7;
+  color: #19A7CE;
   text-decoration: none;
 }
 
@@ -164,7 +164,7 @@ h6 {
 }
 
 .header-social-links a:hover {
-  color: #34b7a7;
+  color: #19A7CE;
 }
 
 /*--------------------------------------------------------------
@@ -273,7 +273,7 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #34b7a7;
+  color: #19A7CE;
 }
 
 .navbar .dropdown:hover>ul {
@@ -593,7 +593,7 @@ section {
 }
 
 .cta .cta-btn:hover {
-  background: #34b7a7;
+  background: #19A7CE;
   border: 2px solid #34b7a7;
 }
 
@@ -632,7 +632,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #34b7a7;
+  color: #19A7CE;
 }
 
 .about .content p:last-child {
@@ -681,7 +681,7 @@ section {
 .facts .counters span {
   font-size: 48px;
   display: block;
-  color: #34b7a7;
+  color: #19A7CE;
 }
 
 .facts .counters p {
@@ -767,11 +767,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #34b7a7;
+  border: 1px solid #19A7CE;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #34b7a7;
+  background-color: #19A7CE;
 }
 
 /*--------------------------------------------------------------
@@ -1108,11 +1108,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #34b7a7;
+  border: 1px solid #19A7CE;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #34b7a7;
+  background-color: #19A7CE;
 }
 
 .portfolio-details .portfolio-info {
@@ -1162,7 +1162,7 @@ section {
 
 .contact .info i {
   font-size: 20px;
-  color: #34b7a7;
+  color: #19A7CE;
   float: left;
   width: 44px;
   height: 44px;
@@ -1197,7 +1197,7 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #34b7a7;
+  background: #19A7CE;
   color: #fff;
 }
 
@@ -1256,7 +1256,7 @@ section {
 
 .contact .php-email-form input:focus,
 .contact .php-email-form textarea:focus {
-  border-color: #34b7a7;
+  border-color: #19A7CE;
 }
 
 .contact .php-email-form input {
@@ -1268,7 +1268,7 @@ section {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #34b7a7;
+  background: #19A7CE;
   border: 0;
   padding: 10px 30px 12px 30px;
   color: #fff;
@@ -1307,5 +1307,5 @@ section {
 }
 
 #footer .credits a {
-  color: #34b7a7;
+  color: #19A7CE;
 }
